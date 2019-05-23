@@ -1,0 +1,13 @@
+.picture {
+    width: 150px;
+}
+
+.info-box ul > li{
+    display:inline;
+    list-style: none;
+}
+
+.contact_row td{
+    padding: 10px;
+    border-top: dotted 1px #2c2828;    
+}
